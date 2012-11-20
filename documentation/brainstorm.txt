@@ -1,0 +1,26 @@
+hierarchy of folders
+rearrange
+color
+	ex. for american food vs. chinese food
+	automatic or manual?
+pictures for each cuisine?
+
+include categories
+	not include too much detail
+
+array of tiles, click one to expand
+	use css transtition to expand
+
+styled after iphone folders (category-subcategory-business)
+mouse over first category, then click on subcategory?
+
+"dock" on side - each picture for categories
+or tabs
+
+picture on left - restaurant on right
+
+database:
+	host: mynlc.db.5716941.hostedresource.com
+	db name: mynlc
+	user: mynlc
+	password: Coms4170!
