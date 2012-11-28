@@ -13,5 +13,11 @@ Miriam Melnick:
 	API v2.0
 	Consumer Key	8cffnsYfNwVLjvsOicLCqg
 	Consumer Secret	ubgZQyb-pApuQYj4K18nc5ak0UA
-	Token			bnkOn2SiFe2Y_O7tj_XcIYgxa9ivprbx
+	Token	         bnkOn2SiFe2Y_O7tj_XcIYgxa9ivprbx
 	Token Secret	UQF_SYi0ZKDXadn9KnJ2bhSej6s
+Nan Yan:
+         API v2.0
+         Consumer Key      zqKJwLjfouW87ykXNALDsw
+         Consumer Secret   XjTGWA9xDdcdXR_yiZsHUn0og78
+         Token             8yXJ1kppNXl6e-_hhSypGIXFsQJsQERv
+         Token Secret      m13qc9dB4EUT0cz08TTZW0RKzQ4
