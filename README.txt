@@ -21,3 +21,9 @@ Nan Yan:
      Consumer Secret   XjTGWA9xDdcdXR_yiZsHUn0og78
      Token             8yXJ1kppNXl6e-_hhSypGIXFsQJsQERv
      Token Secret      m13qc9dB4EUT0cz08TTZW0RKzQ4
+Chang Hu:
+	API v2.0
+	Consumer Key 	ZpGfVJrVwjE7zLQfkscgWg
+	Consumer Secret H_L2PQXKSJPoPXAiL1F3U-gX8n4
+	Token 		-i8V9dbrLwiluvbl2PFGqT6KRf6arXiu
+	Token Secret 	nX2oHwKjiTVcLKVTug8GFDw7Uxs
