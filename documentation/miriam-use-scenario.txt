@@ -1,0 +1,9 @@
+Summary: Anne is bringing her brother Mike to NYC. Mike is not tech-savvy but is very opinionated and wants to help choose what they do.
+
+Anne is a 30-year-old lawyer who lives in Washington DC. She and her brother are going together to New York City next month to do some sightseeing. Her brother Mike is not very technically savvy, but is very opinionated. Anne wants to find some options for things to do and places to eat and then show the choices to Mike so he can make a decision. In Washington DC, Anne has found Yelp to be a great resource for reviews and suggestions. They will be staying in Greenwich Village.
+
+First, Anne and Mike want to go to an Indian restaurant. She pulls up MyNLC and searches for "Indian Restaurant" near "Greenwich Village, Manhattan, NY". She looks through the first few results. For each entry with a good review, she clicks it to see more details and to read the reviews and look at the price range. When she finds one that looks very good, she clicks "Save". She does this for four different Indian restaurants on the list.
+
+Anne goes through a similar process for Pizza restaurants and for Ice Cream shops.
+
+Then she goes to see Mike and pulls up her web browser. The state has been saved from her previous session so MyNLC still remembers which businesses she saved earlier. She gives the keyboard to Mike and he sees a simple interface on the home screen showing him just the businesses that Anne highlighted earlier.

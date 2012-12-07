@@ -9,7 +9,7 @@ Git repository: https://github.com/miriammelnick/mynlc
 
 
 API Access
-Miriam Melnick:
+Miriam Melnick:		I wrote to the yelp folks and got my account upgraded to 1000 calls/day. It'll probably be easiest for us all to just test using my API keys.
 	API v2.0
 	Consumer Key	8cffnsYfNwVLjvsOicLCqg
 	Consumer Secret	ubgZQyb-pApuQYj4K18nc5ak0UA
@@ -27,3 +27,10 @@ Chang Hu:
 	Consumer Secret H_L2PQXKSJPoPXAiL1F3U-gX8n4
 	Token 		-i8V9dbrLwiluvbl2PFGqT6KRf6arXiu
 	Token Secret 	nX2oHwKjiTVcLKVTug8GFDw7Uxs
+
+Windows Metro Tiles with css3 and javascript
+http://tholman.com/projects/tile-js
+
+JavaScript Tasks:
+drag/drop for edit home screen
+Tags - add to webstorage, use for autocomplete

@@ -57,8 +57,8 @@ if (localStorage && localStorage.getItem(params)) {
   'jsonpCallback': 'cb',
   'success': function(data, textStats, XMLHttpRequest) {
     console.log(data);
-    var output = prettyPrint(data);
-    $("body").append(output);
+    // var output = prettyPrint(data);
+    // $("body").append(output);
     localStorage.setItem(params, JSON.stringify(data));
   }})
 }
