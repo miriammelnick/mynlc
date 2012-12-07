@@ -4,23 +4,27 @@
 	<title>BetterMarks for Yelp</title>
 	<meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="http://code.jquery.com/ui/1.9.2/themes/base/jquery-ui.css">
-
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script> 
-<script type="text/javascript" src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
-<script type="text/javascript" src="http://oauth.googlecode.com/svn/code/javascript/oauth.js"></script>
-<script type="text/javascript" src="http://oauth.googlecode.com/svn/code/javascript/sha1.js"></script>
-<script type="text/javascript" src="https://raw.github.com/padolsey/prettyPrint.js/master/prettyprint.js"></script>
-<!--<script type="text/javascript" src="js/yelp.js" charset="utf-8"></script>-->
-<style>
-    #sortable { list-style-type: none; margin: 0; padding: 0; width: 450px; }
-    #sortable li { margin: 3px 3px 3px 0; padding: 1px; float: left; width: 100px; height: 90px; font-size: 4em; text-align: center; }
-</style>
-<script>
-    $(function() {
-        $( "#sortable" ).sortable();
-        $( "#sortable" ).disableSelection();
-    });
-</script>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script> 
+	<script type="text/javascript" src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
+	<script type="text/javascript" src="http://oauth.googlecode.com/svn/code/javascript/oauth.js"></script>
+	<script type="text/javascript" src="http://oauth.googlecode.com/svn/code/javascript/sha1.js"></script>
+	<script type="text/javascript" src="https://raw.github.com/padolsey/prettyPrint.js/master/prettyprint.js"></script>
+	<script type="text/javascript" src="js/yelp.js" charset="utf-8"></script>
+	<style>
+	    #sortable { list-style-type: none; margin: 0; padding: 0; width: 450px; }
+	    #sortable li { margin: 3px 3px 3px 0; padding: 1px; float: left; width: 100px; height: 90px; font-size: 4em; text-align: center; }
+	</style>
+	<script>
+		//This shows how to make array items draggable
+	    $(function() {
+	        $( "#sortable" ).sortable();
+	        $( "#sortable" ).disableSelection();
+	    });
+	</script>
+	<script type="text/javascript">
+	 	//This is how you send a request to Yelp
+		queryYelp("french fries", "new york city, ny");
+	</script>
 
 </head>
 <body>
